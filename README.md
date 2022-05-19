@@ -1,5 +1,5 @@
 # Docker examen Galley Grub
-## Trabajo creado por [Matias Gomez](https://github.com/MatiasAGomezJ)
+## Trabajo creado por [Matias Gomez](https://github.com/MatiasAGomezJ) & [Ramón Sanchéz](https://github.com/ramonsancheez)
 
 Primero crearemos el archivo `Dockerfile` con la siguiente información.
 ```Dockerfile
